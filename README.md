@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Shahnwaz
 
-<!--
-**shahnwazkhan729787-code/shahnwazkhan729787-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student** | 💻 **Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I am a BCA student interested in software development, programming, and AI.  
+Currently improving my Python, problem-solving, and development skills by building projects and practicing regularly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- C
+- C++
+- Python
+- DBMS
+- Data Structures & Algorithms
+- MS Office
+
+---
+
+## 🚀 Projects
+
+- 🤖 **Tara AI** – Voice & Chat Assistant
+- 🌦️ **Weather App** – Weather information application
+- 🔲 **QR Generator** – QR code generation project
+- 📚 **Library Management System** – Database-based management system
+- 🤖 **AI Assistant** – Personal AI assistant project
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- 💡 Problem Solving
+
+---
+
+## 🎯 Career Goal
+
+To become a **Software Engineer** and build useful, reliable, and user-friendly software solutions.
+
+---
+
+## 📊 GitHub
+
+I regularly work on programming practice, projects, and learning new technologies.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Shahnwaz](https://www.linkedin.com/in/shahnawaz-khan-a00974388/)
+- 🐙 **GitHub:** [Shahnwaz](https://github.com/shahnwazkhan729787-code)
+
+---
+
+⭐ Thanks for visiting my profile!
